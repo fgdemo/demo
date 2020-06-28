@@ -4,6 +4,6 @@
 
 ## Introduction
 
-* [Case Study](introduction/case-study.md)
 * [Overview of Future Grid](introduction/overview-of-future-grid.md)
+* [Case Study](introduction/case-study.md)
 
