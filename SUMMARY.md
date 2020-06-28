@@ -1,6 +1,6 @@
 # Table of contents
 
-* [demo](README.md)
+* [Future Grid Documentation Library](README.md)
 
 ## Introduction
 
