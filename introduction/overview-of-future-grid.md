@@ -16,7 +16,9 @@ Here's how Future Grid helps you solve the challenges of renewable integration.
 | :--- | :--- | :--- |
 | Resulting from large shifts in demand  Rooftop Solar, Storage and Batteries, Electric Vehicles and Peer to Peer Energy Trading all shift the way energy is both generated and consumed. As a result, network voltage management becomes a bottleneck renewable integration.  Future Grid’s revolutionary technology makes this possible so you integrate more renewables, more quickly. | Reduce and defer capital with visibility  Data Engineering turns smart meter data into real visibility of your distribution network so you can pinpoint capacity constraints at the right time and the right place for demand management.  Data Engineering will execute analytics and automate actions back into operational systems such as SCADA, ADMS and DERMS to manage performance – live. | Automated monitoring of entire networks  Data Engineering will monitor customer supply 24/7/365 with our world leading safety algorithms that can detect and pinpoint network faults live.  Data Engineering will correlate faults and surface to GIS and DMS while dispatching work orders to field crews automatically. |
 
-Data Engineering puts data in the hands of the utility so that less time is spent managing data and more time is spent creating value.![](https://files.readme.io/10b8b9a-diagram-01.png)![](https://files.readme.io/10b8b9a-diagram-01.png)
+Data Engineering puts data in the hands of the utility so that less time is spent managing data and more time is spent creating value.
+
+![](https://files.readme.io/10b8b9a-diagram-01.png)
 
 ## Renewable Integration
 
