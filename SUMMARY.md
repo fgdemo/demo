@@ -7,10 +7,6 @@
 * [Overview of Future Grid](introduction/overview-of-future-grid.md)
 * [Case Study](introduction/case-study.md)
 
-## Security
-
-* [Configure Your Firewalls](security/configure-your-firewalls.md)
-
 ## Release Notes
 
 * [Release Notes for Future Grid 20.9](release-notes/release-notes-for-future-grid-20.9.md)
