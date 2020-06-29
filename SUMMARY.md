@@ -9,6 +9,7 @@
 
 ## Security
 
+* [Secure Your Infrastructure](security/secure-your-infrastructure.md)
 * [Configure Your Firewalls](security/configure-your-firewalls.md)
 
 ## Release Notes
