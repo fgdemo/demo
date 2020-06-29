@@ -10,6 +10,7 @@
 ## SAAS SUPPORT
 
 * [About SaaS Applications](saas-support/about-saas-applications.md)
+* [Required Policies](saas-support/required-policies.md)
 
 ## Security
 
