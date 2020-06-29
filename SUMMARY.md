@@ -7,8 +7,13 @@
 * [Overview of Future Grid](introduction/overview-of-future-grid.md)
 * [Case Study](introduction/case-study.md)
 
+## SAAS SUPPORT
+
+* [About SaaS Applications](saas-support/about-saas-applications.md)
+
 ## Security
 
+* [Secure Your Infrastructure](security/secure-your-infrastructure.md)
 * [Configure Your Firewalls](security/configure-your-firewalls.md)
 
 ## Release Notes
