@@ -1,3 +1,7 @@
+---
+description: Learn about securing all layers of your infrastructure stack.
+---
+
 # Secure Your Infrastructure
 
 Securing your Oracle Enterprise Manager deployment involves securing all layers of the stack starting with the underlying operating system \(OS\) on which the OMS and Repository reside all the way up to the Enterprise Manager components themselves. These recommendations will increase overall security as well as prevent certain DoS attacks.
